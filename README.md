@@ -8,4 +8,5 @@ React app needs some libraries to run correctly:
   - ReactPlayer
   - AntDesign
 
-The Java app runs with Spring
+The Java app runs with Spring.
+Your will need to run a MySQL server to store all the data from the game, I used XAMPP to run my DB locally. In the MYSQL folder you can find my tables and data.
